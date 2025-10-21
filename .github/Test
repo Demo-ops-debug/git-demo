@@ -1,0 +1,5 @@
+#---Application---
+application:
+  name: "MyWebApp"
+  version: "1.2.0"
+  environment: "dev"
